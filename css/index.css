@@ -1,0 +1,52 @@
+body {
+	background-attachment: fixed;
+	font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	font-family: 'RobotoRegular', 'Droid Sans', 'Segoe UI', Segoe, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, Geneva, sans-serif;
+	background-color: #e65c00;
+	color: #331400;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+.app {
+	text-align: center;
+}
+
+button {
+	margin: 15px;
+	padding: 7px 13px 7px 13px;
+	font-size: 16px;
+	font-weight: 600;
+	background-color: #ffb380;
+	border: 2px solid #803300;
+	border-radius: 4px;
+}
+
+.btnEnable {
+	background-color: #ff8533;
+}
+
+#content {
+	font-size: 1.2em;
+	width: 90%;
+	overflow-wrap: break-word;
+}
+
+.highlight {
+	background-color: #ff8533;
+}
+
+.complete {
+	text-decoration: line-through;
+}
+
+ul {
+	font-weight: 500;
+	line-height: 140%;
+}
